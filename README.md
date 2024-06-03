@@ -37,10 +37,13 @@ To get started with the BlackCoffer Visualization Dashboard:
 
 1. Clone this repository: `git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.git`
 2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
-3. Install dependencies:
+3. Add .env file in which following Variables should be present:
+   - MONGODB_URI :{your mongodb url}
+   - PORT        :{Server port}
+4. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client && npm install`
-4. Run the application:
+5. Run the application:
    - Backend: `cd server && npm start`
    - Frontend: `cd client && npm start`
 
