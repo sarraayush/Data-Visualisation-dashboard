@@ -9,13 +9,13 @@ Here are some enticing snapshots showcasing the features and functionalities of 
 
 
 
-![image]("https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000450.png")
+![image](https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot%202024-06-04%20000450.png)
 
 
-![image](https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000501.png')
+![image](https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot%202024-06-04%20000501.png')
 
 
-![image](https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000516.png)
+![image](https://github.com/sarraayush/Data-Visualisation-dashboard/assets/Screenshot%202024-06-04%20000516.png)
 
 
 
