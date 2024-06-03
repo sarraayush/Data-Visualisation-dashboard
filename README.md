@@ -6,16 +6,16 @@ Welcome to the Data Visualization Dashboard repository! This dashboard provides 
 
 Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
 
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/d30a8648-12d7-41b6-82c6-5ebec4c5268b)
 
 
-![image](sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000450.png)
+
+![image]('sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000450.png')
 
 
-![image](sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000501.png)
+![image]('sarraayush/Data-Visualisation-dashboard/assets/Screenshot 2024-06-04 000501.png')
 
 
-![image](assets/Screenshot 2024-06-04 000516.png)
+![image]('assets/Screenshot 2024-06-04 000516.png')
 
 
 
