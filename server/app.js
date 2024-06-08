@@ -17,7 +17,13 @@ mongoose.connect(process.env.MONGODB_URI, {
 });
 
 // Routes
+
 app.use('/api', apiRoutes);
+app.use('/' , (req , res)=>{
+  res.status(200).json({
+    message : "Made by Aayush/"
+  })
+})
 
 // Start the server
 const PORT = process.env.PORT || 5000;
