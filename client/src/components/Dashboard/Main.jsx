@@ -1,18 +1,18 @@
-import React, { useState, useEffect } from "react";
+import { Box, ChakraProvider, Flex, Grid } from "@chakra-ui/react";
 import axios from "axios";
-import IntensityChart from "./IntensityChart";
-import Chart from "chart.js/auto";
 import { CategoryScale } from "chart.js";
+import Chart from "chart.js/auto";
+import React, { useEffect, useState } from "react";
+import CountryChart from "./Country";
+import Footer from "./Footer";
+import IntensityChart from "./IntensityChart";
+import LikelihoodRadarChart from "./LikelihoodChart";
 import Navbar from "./Navbar";
 import RegionChart from "./RegionChart";
-import AdminDashboard from "./Sidebar";
-import { ChakraProvider, Flex, Box, Grid } from "@chakra-ui/react";
 import RelevanceBubbleChart from "./Relevance";
-import TopicsRadarChart from "./TopicChart";
 import PieChart from "./SectorChart";
-import CountryChart from "./Country";
-import LikelihoodRadarChart from "./LikelihoodChart";
-import Footer from "./Footer";
+import AdminDashboard from "./Sidebar";
+import TopicsRadarChart from "./TopicChart";
 
 Chart.register(CategoryScale);
 
@@ -21,7 +21,7 @@ const Main = () => {
 
   useEffect(() => {
     const fetchDataFromApi = async () => {
-      const API_URL = "http://localhost:5000";
+      const API_URL = "https://data-visualisation-dashboard-backend.onrender.com";
       try {
         const response = await axios.get(`${API_URL}/api/data`);
         setData(response.data);
