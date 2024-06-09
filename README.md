@@ -2,6 +2,14 @@
 
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
 
+# Live Links 
+
+<ul>
+    <li><a href="">Frontend / Gui Link</a></li>
+   <li><a href="https://data-visualisation-dashboard-backend.onrender.com">Backend Api</a></li>
+  
+</ul>
+
 ## Screenshots
 
 Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
